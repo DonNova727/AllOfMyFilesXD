@@ -1,0 +1,40 @@
+def -Defines given variables
+return - Has a certain value be given back to user 
+sys -Has the console search through the system 
+arg -places or states an argument for the code
+seek - Allows the bash to for something specific withough having to run through the entire code firs
+os.path
+: -creates an indentation
+print - has a line or phrase appeare in the code 
+\\ Backslash (\)
+\' Single-quote (’)
+\" Double-quote (”)
+\a ASCII bell (BEL)
+\b ASCII backspace (BS)
+\f ASCII formfeed (FF)
+\n ASCII linefeed (LF)
+\N{name} Character named name in the Unicode database (Unicode only)
+\r Carriage Return (CR)
+\t Horizontal Tab (TAB)
+\uxxxx Character with 16-bit hex value xxxx
+\Uxxxxxxxx Character with 32-bit hex value xxxxxxxx
+\v ASCII vertical tab (VT)
+\ooo Character with octal value ooo
+\xhh Character with hex value hh
+" Helps create dialouge or words that are being written after the print statement be seen
+' - uses the same funtion of the double quotation marking but also can be placed within double in order to create quotes or contraction within the code 
+""" Creates an continuous print statement untill code is repeated 
+''' The same as above
+open() - Opens the file or program placed within the parenthesis
+close() Closes Fil or proggram placed within the parenthesis
+txt.read reads a given txt file
+
+Math properties
+= 
+-
+*
+/
+% Finds the reaminder of two numbers instread of regular division or the precentage of something else
+{} along with formating allows a variable to be replaced  
+() 
+.. 
