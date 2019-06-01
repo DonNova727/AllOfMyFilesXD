@@ -1,0 +1,6 @@
+print("THE SIRENS MUST BLOW THE HEAVENS MUST KNOW OF THE NEW ROYAL WHO HAS COME TO GROW.")
+print("AND THEIR NAME IS")
+input()
+name = input()
+print(f"{name}!")
+print(f"")

@@ -14,6 +14,6 @@ happy_bday = ({"Happy Birthaday to you",
 bulls_on_parade = Song({"They rally around the family",
                         "with pockets full of shells"})
 
-happy_bday . sing_me_a_song()
+happy_bday.sing_me_a_song()
 
-bulls_on_parade . sing_me_a_song()
+bulls_on_parade.sing_me_a_song()

@@ -48,7 +48,7 @@ if ml =="3":
     print("(you look at your shoulder hesitantly to see a bright green gecko on it. ")
     color = "green"
 
-print("1.use Sarcasim \n 2.Show concern \n 3.Discomfort \n 4.Instict ")
+print("1.use Sarcasim \n 2.Show concern \n 3.Discomfort \n 4.Instinct ")
 Di = input(">")
 if Di == "1" :
     print("Wow! Gecko goddess cool alot better than before it suits you")
@@ -62,4 +62,16 @@ if Di == "4" :
 
 print("(you continue walking throgh the woods and you come across a large white building revealed by the rising sun)")
 print(f"{name} : Hey Lunar is this the place \n Lunar : Yep this it \n {name} : cool im gonna start running hold on. \n Lunar: Wait What.")
-  
+print("(You hurry ready to greet society, until your in front of the building confused by the silence \n 1.Open door \n 2.knock \n 3.Yell for someone to come out \n 4.Instinct") 
+ent = input(">")
+if ent == "1" :
+    print("The door clicks open as it slowly creeks open")
+if ent == "2" :
+    print("....\n nobody answers, you knock harder accidently causing the loose door to open")
+if ent == "3" :
+    print("Hey anyone there! (nobody answers)")
+    print("Lunar : You should just open the door I think whoever lives here is gone for now")
+    print(f"{name} Didn't you know about this place")
+if ent == "4" :
+    print("(You pick up a rock from the floor lick it and place it against the door ........it opens?)")
+    print("Lunar : That's abnormal even by my standards.")
